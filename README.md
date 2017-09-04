@@ -1,0 +1,3 @@
+# mysql_redis_mongodb
+
+使用redis及MongoDB配合MySQL完成用户信息查询，redis中无数据则查询MySQL数据库，若MySQL中有则添加到redis。MongoDB同理
